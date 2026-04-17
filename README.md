@@ -1,6 +1,6 @@
 # Proyecto Colaborativo
 ## Descripción
-Sitio web base para práctica de Git.
+Portafolio web del Equipo A
 ## Equipo
 Desarrolladores: [Nombre A] y [Nombre B]
 ## Estado
