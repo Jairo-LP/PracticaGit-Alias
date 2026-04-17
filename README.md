@@ -1,6 +1,8 @@
 # Proyecto Colaborativo
 ## Descripción
-Aplicación web del Equipo B.
+Portafolio web del Equipo A
+Portafolio web del Equipo B
+hfjf
 ## Equipo
 Desarrolladores: [Nombre A] y [Nombre B]
 ## Estado
